@@ -1,0 +1,11 @@
+
+R
+java:S1128	"5Remove this unused import 'org.junit.runner.RunWith'.(¸ıºô8õæòŞ .
+S
+java:S1481"1Remove this unused "shoppingCart" local variable.(ƒ‘¹Ìÿÿÿÿÿ8Í†¹Ş .
+b
+java:S1854"@Remove this useless assignment to local variable "shoppingCart".(ƒ‘¹Ìÿÿÿÿÿ8Í†¹Ş .
+c
+java:S1128"GRemove this unused import 'org.junit.jupiter.api.extension.ExtendWith'.(Ëã¸L8çàùŞ .
+f
+java:S1128"DRemove this unused import 'org.junit.platform.runner.JUnitPlatform'.(ÃŠşøÿÿÿÿ8çàùŞ .

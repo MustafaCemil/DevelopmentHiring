@@ -1,0 +1,15 @@
+
+[
+java:S11557">Use isEmpty() to check whether the collection is empty or not.(ò‚üß8Ç¿âƒ .
+Y
+java:S3655A"7Call "Optional#isPresent()" before accessing the value.(¨²íğÿÿÿÿÿ8ÅûÙ„ .
+[
+java:S11557">Use isEmpty() to check whether the collection is empty or not.(ò‚üß8ï‡ç‚ .
+T
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(ÃÌÑ†8Òúƒ .
+[
+java:S1155!">Use isEmpty() to check whether the collection is empty or not.(Î¦¸€8óú´ .
+T
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(„èö¥8§òõ€ .
+Y
+java:S3655]"7Call "Optional#isPresent()" before accessing the value.(£µ³¦ÿÿÿÿÿ8˜Ìš‚ .
